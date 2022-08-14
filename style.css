@@ -1,0 +1,102 @@
+.one{
+    background-image: url(https://html.themexriver.com/Saasio/assets/img/res/d1.jpg );
+    width: auto;
+    height: 700px;
+}
+.two{
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+.three{
+    font-size: small;
+    font-style: italic;
+}
+.button{
+    padding-left: 150px;
+    
+}
+#button{
+    background-color: rgb(172, 153, 153);
+    border: rgb(172, 153, 153);
+    border-width: 100px;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+}
+#one{
+    display: flex;
+    padding-top: 250px;
+    padding-left: 50px;
+}
+#oil{
+ width: 300px;
+ font-size: large;
+ margin: 15px;
+ padding-bottom: 15;
+}
+#rice{
+    width: 300px;
+    font-size: large;
+    margin: 15px;
+}
+#salt{
+    width: 300px;
+    font-size: large;
+    margin: 15px;
+    
+    
+}
+.six{
+    
+    background-color: rgb(46, 46, 46);
+    width: 100%;
+    height: 1150px;
+}
+#six{
+    display: flex;
+}
+.five{
+    display: flex;
+}
+
+
+
+.imge{
+    padding-left: 100px;
+    padding-top: 250px;
+
+}
+.imgs{
+    margin-left: 20px;
+    padding-top: 290px;
+}
+.img1{
+    padding-top: 30px;
+    padding-left:100px ;
+}
+.img2{
+    padding-top: 70px;
+    margin-left: 20px;
+}
+#sugar{
+    padding-left: 20px;
+    padding-top: 350px;
+}
+#menu{
+    background-color: rgb(172, 153, 153);
+    border: rgb(172, 153, 153);
+    border-width: 100px;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    
+}
+.shah{
+    padding-left: 50px;
+}
+.black{
+    background-color: rgb( 44, 43, 43);
+    width: 100%;
+    height: 1000px;
+}
