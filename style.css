@@ -100,3 +100,63 @@
     width: 100%;
     height: 1000px;
 }
+.cl{
+    display: flex;
+    align-content: space-evenly;
+}
+.AB{
+    font-size: small;
+    color: rgb(196, 167, 126);
+}
+#ap{
+    display: flex;
+    font-size:xx-large large;
+}
+#fon{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: x-small;
+}
+#navbarNav{
+    padding-top: 10px;
+    font-size: large;
+    
+}
+.butta{
+    background-color: rgb(196, 167, 126);
+    border: rgb(196, 167, 126);
+    border-width: 1px;
+    width: 190px;
+    height: 60px;
+    font-size: large; 
+}
+.li{
+    display: flex;
+    padding-top: 90px;
+    
+}
+
+.pap{
+    font-size: xx-large;
+    padding-left: 85px;
+}
+.pie{
+    margin: 0px;
+    padding-left: 0px;
+}
+.pe{
+    padding-left: 10px;
+}
+#men{
+    background-color: rgb(196, 167, 126);
+    border: rgb(196, 167, 126);
+    border-width: 1px;
+    width: 150px;
+    height: 60px;
+    font-size: large;
+    
+}
+.me{
+    padding-left: 100px;
+    padding-top: 150px;
+}
